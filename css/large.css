@@ -1,0 +1,10 @@
+/* min-width: 992px */
+
+.comments_box {
+    display: flex;
+    flex-direction: row;
+}
+.single_comment {
+    margin: 5px;
+    
+}
